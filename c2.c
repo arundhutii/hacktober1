@@ -9,6 +9,6 @@ struct Car {
 
 int main()
 {
-    struct Car car1 = { "bmw","x5",1996,};
+    struct Car car1 = { "bmw","honda","x5",1996,};
     return 0;
 }
